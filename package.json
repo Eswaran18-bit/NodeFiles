@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npmCommands",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eswaran18-bit/NodeFiles.git"
+  },
+  "keywords": [
+    "packageMethods"
+  ],
+  "author": "Eswaran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eswaran18-bit/NodeFiles/issues"
+  },
+  "homepage": "https://github.com/Eswaran18-bit/NodeFiles#readme",
+  "description": ""
+}
