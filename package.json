@@ -20,5 +20,9 @@
     "url": "https://github.com/Eswaran18-bit/NodeFiles/issues"
   },
   "homepage": "https://github.com/Eswaran18-bit/NodeFiles#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "uuid": "^11.0.5"
+  }
 }
